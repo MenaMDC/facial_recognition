@@ -1,1 +1,2 @@
-# facial_recognition
+
+# Face Detection using OpenCV and Streamlit
